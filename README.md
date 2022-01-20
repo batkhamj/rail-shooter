@@ -2,11 +2,11 @@
 Mini 3D action-based rail-shooter experience
 
 Controls:
-W - Up
-S - Down
-A - Left
-D - Right
-LMB - Fire lasers 
+W - Up / 
+S - Down / 
+A - Left / 
+D - Right / 
+LMB - Fire lasers /  
 CTRL + TAB - Tab out of fullscreen 
 
 Install instructions: 
