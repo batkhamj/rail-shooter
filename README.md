@@ -12,3 +12,5 @@ CTRL + TAB - Tab out of fullscreen
 Install instructions: 
 1. Download Builds file 
 2. Run RailShooter
+
+Scripts for game can be found in Scripts folder
