@@ -10,7 +10,8 @@ LMB - Fire lasers /
 CTRL + TAB - Tab out of fullscreen 
 
 Install instructions: 
-1. Download Builds file 
-2. Run RailShooter
+1. Download and extract zip 
+2. Open Builds folder 
+3. Run RailShooter
 
 Scripts for game can be found in Scripts folder
